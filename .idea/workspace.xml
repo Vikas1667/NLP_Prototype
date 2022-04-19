@@ -20,14 +20,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Spark connection updated Inprogress -1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/.ipynb_checkpoints/Financial_data_extraction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/.ipynb_checkpoints/Financial_data_extraction-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/Financial_data_extraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/Financial_data_extraction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/Spark_DB_kron_connect.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/Spark_DB_kron_connect.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/financial_statements_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/financial_statements_extraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentiment_analysis/News_Sentiment_Design.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sentiment_analysis/News_Sentiment_Design.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Spark connection updated Inprogress -1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650206855755</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Financial Data extraction task updated">
+      <created>1650350690745</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650350690745</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +172,8 @@
     <MESSAGE value="scraping and sentiment analysis notebook updated" />
     <MESSAGE value="Design Inprogress -1" />
     <MESSAGE value="Spark connection updated Inprogress -1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spark connection updated Inprogress -1" />
+    <MESSAGE value="Financial Data extraction task updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Financial Data extraction task updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650208665881">
