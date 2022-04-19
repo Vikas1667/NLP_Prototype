@@ -4,6 +4,7 @@ import urllib.request as ur
 import requests
 # import streamlit as st
 
+
 def balance_sheet_extraction(index_symbol):
     url_is = 'https://finance.yahoo.com/quote/' + index_symbol + '/financials?p=' + index_symbol
     try:
