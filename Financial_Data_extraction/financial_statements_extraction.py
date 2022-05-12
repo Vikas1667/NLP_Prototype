@@ -2,7 +2,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import urllib.request as ur
 import requests
-# import streamlit as st
+import streamlit as st
 
 
 def balance_sheet_extraction(index_symbol):
@@ -48,4 +48,4 @@ def getTicker (company_name):
 
 if __name__ == '__main__':
     balance_sheet_extraction('MSFT')
-    # index_sym=st.textbox('insert the stock index symbol')
+    index_sym=st.textbox('insert the stock index symbol')
