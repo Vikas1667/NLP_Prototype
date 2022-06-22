@@ -36,6 +36,7 @@ Article: https://medium.com/analytics-vidhya/subword-techniques-for-neural-machi
 
 
 Inpremise
+
 ## Airflow and Spark 
 ## mongo
 ## Solr 
@@ -43,7 +44,11 @@ Inpremise
 ## Docker 
 
 AWS 
-
-
 ## Audio File usecases
 https://towardsdatascience.com/how-to-extract-keywords-from-audio-files-with-natural-language-processing-nlp-3084ceb951c9
+
+## Amazon Personalize
+Roadmap
+1) Usage 
+2) Recipes
+3) Data 
