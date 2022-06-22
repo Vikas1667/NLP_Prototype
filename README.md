@@ -43,7 +43,8 @@ Inpremise
 ## Pysql 
 ## Docker 
 
-AWS 
+# Cloud
+## AWS 
 ### Audio File usecases
 https://towardsdatascience.com/how-to-extract-keywords-from-audio-files-with-natural-language-processing-nlp-3084ceb951c9
 
@@ -76,4 +77,7 @@ https://docs.aws.amazon.com/personalize/latest/dg/data-prep.html
 ### Amazon Wrangler 
 https://aws.amazon.com/sagemaker/data-wrangler/
 
+
+## GCP
+https://developers.google.com/machine-learning/recommendation/overview
 
