@@ -44,11 +44,36 @@ Inpremise
 ## Docker 
 
 AWS 
-## Audio File usecases
+### Audio File usecases
 https://towardsdatascience.com/how-to-extract-keywords-from-audio-files-with-natural-language-processing-nlp-3084ceb951c9
 
-## Amazon Personalize
+## Recommendation Systems 
+
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+
+### Sagemaker
+https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/
+
+https://aws.amazon.com/getting-started/hands-on/semantic-content-recommendation-system-amazon-sagemaker/3
+
+[Accelerate and improve recommender system training and predictions using Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/accelerate-and-improve-recommender-system-training-and-predictions-using-amazon-sagemaker-feature-store/)
+### Amazon Personalize
 Roadmap
-1) Usage 
-2) Recipes
-3) Data 
+1) Usage (Sumit)
+
+2) Recipes(komal)
+3) Data & usecases(vikas)
+
+Use cases
+[Creating a recommendation engine using Amazon Personalize](https://aws.amazon.com/blogs/machine-learning/creating-a-recommendation-engine-using-amazon-personalize/)
+[Amazon Personalize can now create up to 50% better recommendations for fast changing catalogs of new products and fresh content](https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-create-up-to-50-better-recommendations-for-fast-changing-catalogs-of-new-products-and-fresh-content/)
+[How Restaurants Can Win Over Generation Z With Text To Order](https://aws.amazon.com/blogs/industries/how-restaurants-can-win-over-generation-z-with-text-to-order/)
+
+Data preparation
+
+https://docs.aws.amazon.com/personalize/latest/dg/data-prep.html
+
+### Amazon Wrangler 
+https://aws.amazon.com/sagemaker/data-wrangler/
+
+
