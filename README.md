@@ -63,6 +63,7 @@ Roadmap
 1) Usage (Sumit)
 
 2) Recipes(komal)
+
 3) Data & usecases(vikas)
 
 Use cases
@@ -71,7 +72,6 @@ Use cases
 [How Restaurants Can Win Over Generation Z With Text To Order](https://aws.amazon.com/blogs/industries/how-restaurants-can-win-over-generation-z-with-text-to-order/)
 
 Data preparation
-
 https://docs.aws.amazon.com/personalize/latest/dg/data-prep.html
 
 ### Amazon Wrangler 

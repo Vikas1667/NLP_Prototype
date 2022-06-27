@@ -20,7 +20,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Spark connection updated Inprogress -1" />
+    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Spark connection updated Inprogress -1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +64,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Smart_OCR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="financial_statements_extraction" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -179,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655925063424</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="NLP prototype AWS Personalize is inprogress">
+      <created>1655925297477</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1655925297477</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,10 +239,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1258" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1650214595303" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1655925074537">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1655925302953">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1655925074537" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1655925302953" />
     <state x="444" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650205473827">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
