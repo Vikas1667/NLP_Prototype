@@ -68,7 +68,9 @@ Roadmap
 
 Use cases
 [Creating a recommendation engine using Amazon Personalize](https://aws.amazon.com/blogs/machine-learning/creating-a-recommendation-engine-using-amazon-personalize/)
+
 [Amazon Personalize can now create up to 50% better recommendations for fast changing catalogs of new products and fresh content](https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-create-up-to-50-better-recommendations-for-fast-changing-catalogs-of-new-products-and-fresh-content/)
+
 [How Restaurants Can Win Over Generation Z With Text To Order](https://aws.amazon.com/blogs/industries/how-restaurants-can-win-over-generation-z-with-text-to-order/)
 
 Data preparation
