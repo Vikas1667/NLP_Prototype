@@ -21,12 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Spark connection updated Inprogress -1">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/.ipynb_checkpoints/Financial_data_extraction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/.ipynb_checkpoints/Financial_data_extraction-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/Financial_data_extraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/Financial_data_extraction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentiment_analysis/notebooks/Scraping and Sentiment_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sentiment_analysis/notebooks/Scraping and Sentiment_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656343415733</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update in Financial Data">
+      <created>1656437473140</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656437473140</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,17 +227,18 @@
     <MESSAGE value="Spark connection updated Inprogress -1" />
     <MESSAGE value="NLP prototype AWS Personalize is inprogress" />
     <MESSAGE value="usecase updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="usecase updated" />
+    <MESSAGE value="Update in Financial Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update in Financial Data" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650208665881">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1650208665881" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1655924417491">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1656437394252">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1655924417491" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1656437394252" />
     <state width="1258" height="163" key="GridCell.Tab.0.bottom" timestamp="1650214595303">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -251,10 +255,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1258" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1650214595303" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1656343421866">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1656437491174">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1656343421866" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1656437491174" />
     <state x="444" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650205473827">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

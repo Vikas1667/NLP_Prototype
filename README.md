@@ -128,3 +128,48 @@ https://docs.microsoft.com/en-in/azure/machine-learning/
  
 OCR services
 https://ricciuti-federico.medium.com/how-to-compare-ocr-tools-tesseract-ocr-vs-amazon-textract-vs-azure-ocr-vs-google-ocr-ba3043b507c1
+
+Time : 45 Minute after 9:45 pm 
+git upload 
+
+Image Classification, Object Detection: Vikas 
+
+Model : CNN Architechture 
+Use cases Overview: AWS site explore(CNN)  
+Key Observations, Issues, Roadmap with links
+
+eg: Reading various images 
+
+Text Classification, Text Embedding: Komal
+
+Model : BERT Architechture 
+Use cases Overview: AWS site explore(BERT)  
+Key Observations and Roadmap 
+
+eg: Reading Various text format 
+
+Algorthms 
+
+1) Tokenizer : Wordpiece tokenizer 
+eg : tokenizer.tokenize(Komalization):-> Komal + ##zation
+
+2) Attention Vectors 
+self attention , Multi head attention 
+  i) Sentiment Analysis : Additive attention 
+
+  
+issues 
+Reading from local 
+https://stackoverflow.com/questions/62472238/autotokenizer-from-pretrained-fails-to-load-locally-saved-pretrained-tokenizer
+
+Tabular Regression,Tabular Classification: Sumit
+https://aws.amazon.com/blogs/machine-learning/new-built-in-amazon-sagemaker-algorithms-for-tabular-data-modeling-lightgbm-catboost-autogluon-tabular-and-tabtransformer/
+
+Model : Catboost and LightGBM 
+
+1. Boosting vs Bagging 
+2. Gradient Boosting Algorithm
+3) Cat vs light difference and parameters , dis_+Advantages 
+
+Use cases Overview: AWS site explore(Boosting Algorithm)  
+Key Observations and Roadmap 
