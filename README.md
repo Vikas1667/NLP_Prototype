@@ -83,3 +83,48 @@ https://aws.amazon.com/sagemaker/data-wrangler/
 ## GCP
 https://developers.google.com/machine-learning/recommendation/overview
 
+
+##
+
+AWS
+Sagemaker
+https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html
+
+GCP - ML
+https://cloud.google.com/products/ai
+
+Vertex AI
+
+Pricing
+https://cloud.google.com/vertex-ai/pricing#asia-pacific
+
+
+Azure- ML
+https://azure.microsoft.com/en-in/services/machine-learning/#product-overview
+
+https://docs.microsoft.com/en-in/azure/machine-learning/
+
+
+OCR services
+https://ricciuti-federico.medium.com/how-to-compare-ocr-tools-tesseract-ocr-vs-amazon-textract-vs-azure-ocr-vs-google-ocr-ba3043b507c1
+AWS
+Sagemaker
+https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html
+ 
+GCP - ML
+https://cloud.google.com/products/ai
+ 
+Vertex AI
+ 
+Pricing
+https://cloud.google.com/vertex-ai/pricing#asia-pacific
+ 
+ 
+Azure- ML
+https://azure.microsoft.com/en-in/services/machine-learning/#product-overview
+ 
+https://docs.microsoft.com/en-in/azure/machine-learning/
+ 
+ 
+OCR services
+https://ricciuti-federico.medium.com/how-to-compare-ocr-tools-tesseract-ocr-vs-amazon-textract-vs-azure-ocr-vs-google-ocr-ba3043b507c1
