@@ -20,8 +20,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Cloud Use cases Updated">
+    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Directory Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/Connect_and automate_via_python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/Connect_and automate_via_python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/Financial_data_extraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/Financial_data_extraction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Vikas/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661884094478</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Cloud Use cases Updated">
+      <created>1661885484553</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661885484553</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Directory Updated">
+      <created>1661885608178</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1661885608178</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,17 +259,19 @@
     <MESSAGE value="usecase updated" />
     <MESSAGE value="Update in Financial Data" />
     <MESSAGE value="Cloud Use cases Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cloud Use cases Updated" />
+    <MESSAGE value="Directory Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Directory Updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1656437394252">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1656437394252" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1661885377113">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1662406971814">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1661885377113" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1662406971814" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1656437394252" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1661885653645">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1661885653645" />
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1656437491174" />
   </component>
 </project>
