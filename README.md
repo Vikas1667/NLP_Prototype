@@ -85,7 +85,6 @@ https://developers.google.com/machine-learning/recommendation/overview
 
 
 ##
-
 AWS
 Sagemaker
 https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html
