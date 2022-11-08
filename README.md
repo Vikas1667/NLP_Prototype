@@ -1,10 +1,24 @@
 # NLP_Prototype
+
+
+
+
+
 ### Architechture
 
 ### NLP Techniques
 1. Sense2vec
 2. Subword Techniques
 3. Semantic search 
+
+
+#### onpremise testing 
+1. Airflow and Spark 
+2. MongoDB
+3. Solr 
+4. Pysql 
+5. Docker 
+
 
 #### References
 1. https://medium.com/analytics-vidhya/subword-techniques-for-neural-machine-translation-f55e4506a728
@@ -36,71 +50,60 @@ References
 7. https://randerson112358.medium.com/web-scraping-stock-tickers-using-python-3e5801a52c6d
 
 
-#### Inpremise
-1. Airflow and Spark 
-2. MongoDB
-3. Solr 
-4. Pysql 
-5. Docker 
 
 ## Cloud 
 
-### AWS 
 1. Services
-2. Usecases
-3. Costing 
-4. Performance Comparision
+2. Usage and Recipes
+3. Usecases
+4. Costing 
+5. Performance Comparision
 
 
-1. Services
-
-AWS 
+### 1. Services
+##### AWS 
 1. Sagemaker
 2. Amazon Personalize
+    1. Data preparation
+3. Amazon Wrangler 
 
-
+#####
 1. https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/
 2. https://aws.amazon.com/getting-started/hands-on/semantic-content-recommendation-system-amazon-sagemaker/3
 3. [Accelerate and improve recommender system training and predictions using Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/accelerate-and-improve-recommender-system-training-and-predictions-using-amazon-sagemaker-feature-store/)
-
-1. Recommendation Systems 
-
-https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+4. https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html
+5. https://aws.amazon.com/sagemaker/data-wrangler/
+6. https://docs.aws.amazon.com/personalize/latest/dg/data-prep.html
 
 
 Use cases
+1. Recommendation Systems 
+
 [Creating a recommendation engine using Amazon Personalize](https://aws.amazon.com/blogs/machine-learning/creating-a-recommendation-engine-using-amazon-personalize/)
 [Amazon Personalize can now create up to 50% better recommendations for fast changing catalogs of new products and fresh content](https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-create-up-to-50-better-recommendations-for-fast-changing-catalogs-of-new-products-and-fresh-content/)
 [How Restaurants Can Win Over Generation Z With Text To Order](https://aws.amazon.com/blogs/industries/how-restaurants-can-win-over-generation-z-with-text-to-order/)
-
-Data preparation
-https://docs.aws.amazon.com/personalize/latest/dg/data-prep.html
-
-Roadmap
-1) Usage
-2) Recipes
-3) Data & usecases
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 
 
-### Amazon Wrangler 
-https://aws.amazon.com/sagemaker/data-wrangler/
+
+
+
+
 
 ## GCP
+Services 
+    1. Vertex AI
+
+Pricing
+
+https://cloud.google.com/vertex-ai/pricing#asia-pacific
+https://cloud.google.com/products/ai
 https://developers.google.com/machine-learning/recommendation/overview
 
 
 ##
 AWS
-Sagemaker
-https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html
 
-GCP - ML
-https://cloud.google.com/products/ai
-
-Vertex AI
-
-Pricing
-https://cloud.google.com/vertex-ai/pricing#asia-pacific
 
 
 Azure- ML
