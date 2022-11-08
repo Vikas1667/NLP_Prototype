@@ -1,84 +1,89 @@
 # NLP_Prototype
-NLP Prototype
+### Architechture
 
-## Architechture
-
-## Scraping the news articles 
- 1) EL paiso -spainish english
- 2) Daily Mail
- 3) Investing.com
- 
-## various Models:  
- sentiment analysis : Finbert  
- Emotion and Feeling extraction
- 
-## Income statement and financial 
-## PDF with spark and airflow
-Article: https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf
-github: https://github.com/dmesquita/airflow-tutorial
-
-## Extraction of stock data 
-https://towardsdatascience.com/web-scraping-for-accounting-analysis-using-python-part-1-b5fc016a1c9a
-https://medium.com/@jan_5421/extracting-financial-statements-from-sec-filings-xbrl-to-json-f83542ade90
-https://jovian.ai/omprakashp014909/extracting-stock-data-using-python-libraries
-## Stock tickets extraction
-
-https://randerson112358.medium.com/web-scraping-stock-tickers-using-python-3e5801a52c6d
-
-## Statistics 
-1. ROE
-
-NLP Build 
+### NLP Techniques
 1. Sense2vec
 2. Subword Techniques
+3. Semantic search 
 
-Article: https://medium.com/analytics-vidhya/subword-techniques-for-neural-machine-translation-f55e4506a728
+#### References
+1. https://medium.com/analytics-vidhya/subword-techniques-for-neural-machine-translation-f55e4506a728
+
+## Usecases
+1. Scraping the news articles 
+    1) EL paiso -spainish english
+    2) Daily Mail
+    3) Investing.com
+ 
+2. Sentiment analysis
+    1. sentiment analysis : Finbert  
+    2. Emotion and Feeling extraction
+
+3. Income statement and financial 
+    1. PDF with spark and airflow
+
+4. Extraction of stock data 
+5. Audio File usecases
+6. Stock tickets extraction
+
+References
+1. https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf
+2. https://github.com/dmesquita/airflow-tutorial
+3. https://towardsdatascience.com/web-scraping-for-accounting-analysis-using-python-part-1-b5fc016a1c9a
+4. https://medium.com/@jan_5421/extracting-financial-statements-from-sec-filings-xbrl-to-json-f83542ade90
+5. https://jovian.ai/omprakashp014909/extracting-stock-data-using-python-libraries
+6. https://towardsdatascience.com/how-to-extract-keywords-from-audio-files-with-natural-language-processing-nlp-3084ceb951c9
+7. https://randerson112358.medium.com/web-scraping-stock-tickers-using-python-3e5801a52c6d
 
 
-Inpremise
+#### Inpremise
+1. Airflow and Spark 
+2. MongoDB
+3. Solr 
+4. Pysql 
+5. Docker 
 
-## Airflow and Spark 
-## mongo
-## Solr 
-## Pysql 
-## Docker 
+## Cloud 
 
-# Cloud
-## AWS 
-### Audio File usecases
-https://towardsdatascience.com/how-to-extract-keywords-from-audio-files-with-natural-language-processing-nlp-3084ceb951c9
+### AWS 
+1. Services
+2. Usecases
+3. Costing 
+4. Performance Comparision
 
-## Recommendation Systems 
+
+1. Services
+
+AWS 
+1. Sagemaker
+2. Amazon Personalize
+
+
+1. https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/
+2. https://aws.amazon.com/getting-started/hands-on/semantic-content-recommendation-system-amazon-sagemaker/3
+3. [Accelerate and improve recommender system training and predictions using Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/accelerate-and-improve-recommender-system-training-and-predictions-using-amazon-sagemaker-feature-store/)
+
+1. Recommendation Systems 
 
 https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 
-### Sagemaker
-https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/
-
-https://aws.amazon.com/getting-started/hands-on/semantic-content-recommendation-system-amazon-sagemaker/3
-
-[Accelerate and improve recommender system training and predictions using Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/accelerate-and-improve-recommender-system-training-and-predictions-using-amazon-sagemaker-feature-store/)
-### Amazon Personalize
-Roadmap
-1) Usage (Sumit)
-
-2) Recipes(komal)
-
-3) Data & usecases(vikas)
 
 Use cases
 [Creating a recommendation engine using Amazon Personalize](https://aws.amazon.com/blogs/machine-learning/creating-a-recommendation-engine-using-amazon-personalize/)
-
 [Amazon Personalize can now create up to 50% better recommendations for fast changing catalogs of new products and fresh content](https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-create-up-to-50-better-recommendations-for-fast-changing-catalogs-of-new-products-and-fresh-content/)
-
 [How Restaurants Can Win Over Generation Z With Text To Order](https://aws.amazon.com/blogs/industries/how-restaurants-can-win-over-generation-z-with-text-to-order/)
 
 Data preparation
 https://docs.aws.amazon.com/personalize/latest/dg/data-prep.html
 
+Roadmap
+1) Usage
+2) Recipes
+3) Data & usecases
+
+
 ### Amazon Wrangler 
 https://aws.amazon.com/sagemaker/data-wrangler/
-
 
 ## GCP
 https://developers.google.com/machine-learning/recommendation/overview
@@ -103,6 +108,9 @@ https://azure.microsoft.com/en-in/services/machine-learning/#product-overview
 
 https://docs.microsoft.com/en-in/azure/machine-learning/
 
+Pricing
+https://cloud.google.com/vertex-ai/pricing#asia-pacific
+
 
 OCR services
 https://ricciuti-federico.medium.com/how-to-compare-ocr-tools-tesseract-ocr-vs-amazon-textract-vs-azure-ocr-vs-google-ocr-ba3043b507c1
@@ -112,20 +120,25 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html
  
 GCP - ML
 https://cloud.google.com/products/ai
- 
+
+services 
 Vertex AI
  
-Pricing
-https://cloud.google.com/vertex-ai/pricing#asia-pacific
  
  
 Azure- ML
+
+## Azure OCR pipeline for PDF to Knowledge Graph 
+1. [Extracting Key-Value Pairs from PDF Documents Using Deep Learning](https://medium.com/@faysal887/extracting-key-value-pairs-from-pdf-documents-using-deep-learning-fd79f4582a86)
+
 https://azure.microsoft.com/en-in/services/machine-learning/#product-overview 
 https://docs.microsoft.com/en-in/azure/machine-learning/
  
- 
-OCR services
-https://ricciuti-federico.medium.com/how-to-compare-ocr-tools-tesseract-ocr-vs-amazon-textract-vs-azure-ocr-vs-google-ocr-ba3043b507c1
+Compartive studies 
+
+1. OCR services across various cloud platforms
+
+1. https://ricciuti-federico.medium.com/how-to-compare-ocr-tools-tesseract-ocr-vs-amazon-textract-vs-azure-ocr-vs-google-ocr-ba3043b507c1
 
 Image Classification, Object Detection 
 
@@ -143,7 +156,6 @@ Key Observations and Roadmap
 eg: Reading Various text format 
 
 Algorthms 
-
 1) Tokenizer : Wordpiece tokenizer 
 eg : tokenizer.tokenize(Komalization):-> Komal + ##zation
 
@@ -159,11 +171,4 @@ https://stackoverflow.com/questions/62472238/autotokenizer-from-pretrained-fails
 Tabular Regression,Tabular Classification: Sumit
 https://aws.amazon.com/blogs/machine-learning/new-built-in-amazon-sagemaker-algorithms-for-tabular-data-modeling-lightgbm-catboost-autogluon-tabular-and-tabtransformer/
 
-Model : Catboost and LightGBM 
 
-1. Boosting vs Bagging 
-2. Gradient Boosting Algorithm
-3) Cat vs light difference and parameters , dis_+Advantages 
-
-Use cases Overview: AWS site explore(Boosting Algorithm)  
-Key Observations and Roadmap 

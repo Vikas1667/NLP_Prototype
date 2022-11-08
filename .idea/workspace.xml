@@ -22,7 +22,48 @@
   <component name="ChangeListManager">
     <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Directory Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/AWS_NLP/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/.idea/summaryman-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/summaryman-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/summaryman-main/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/summaryman-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/summaryman-main/Summaryman.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/summaryman-main/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/summaryman-main/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman-main/summaryman-main/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AWS_NLP/summaryman_fastapi_t5.zip" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/AWS_NLP/summaryman_fastapi_t5.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLops/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/MLops/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/.ipynb_checkpoints/Connect_and automate_via_python-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/.ipynb_checkpoints/Connect_and automate_via_python-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/.ipynb_checkpoints/Financial_data_extraction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/.ipynb_checkpoints/Financial_data_extraction-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/.ipynb_checkpoints/Spark_DB_kron_connect-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/.ipynb_checkpoints/Spark_DB_kron_connect-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/docs/Spark_DB_kron_connect.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/docs/Spark_DB_kron_connect.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/docs/Spark_architechture_skeleton.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/docs/Spark_architechture_skeleton.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/financial_statements_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/financial_statements_extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/notebooks/Connect_and automate_via_python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/notebooks/Connect_and automate_via_python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/notebooks/Financial_data_extraction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/notebooks/Financial_data_extraction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/notebooks/NYSE_company_names_ticker.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/notebooks/NYSE_company_names_ticker.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Financial_Data_extraction/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Financial_Data_extraction/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Summarization/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Summarization/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Summarization/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Summarization/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/Summarization/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Summarization/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/sentiment_analysis/News_Sentiment_Design.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/sentiment_analysis/News_Sentiment_Design.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/sentiment_analysis/notebooks/.ipynb_checkpoints/Scraping and Sentiment_analysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/sentiment_analysis/notebooks/.ipynb_checkpoints/Scraping and Sentiment_analysis-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/sentiment_analysis/notebooks/Scraping and Sentiment_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/sentiment_analysis/notebooks/Scraping and Sentiment_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/sentiment_analysis/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/sentiment_analysis/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/stock_data_analysis/BI_stock_vis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/stock_data_analysis/BI_stock_vis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/stock_data_analysis/nlp_skeleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/stock_data_analysis/nlp_skeleton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vikas/stock_data_analysis/simpletransformers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/stock_data_analysis/simpletransformers.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +105,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StockNLP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="V:\ML_projects\github_projects\NLP_Prototype\NLP" />
+      <recent name="V:\ML_projects\github_projects\NLP_Prototype\Vikas\stock_data_analysis" />
+      <recent name="V:\ML_projects\github_projects\NLP_Prototype\Vikas\Financial_Data_extraction\docs" />
+      <recent name="V:\ML_projects\github_projects\NLP_Prototype\Vikas\Financial_Data_extraction\notebooks" />
+      <recent name="V:\ML_projects\github_projects\NLP_Prototype\Vikas" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="financial_statements_extraction" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -238,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664660452252</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update directory structure">
+      <created>1667931760738</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667931760738</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,16 +323,32 @@
     <MESSAGE value="Cloud Use cases Updated" />
     <MESSAGE value="Directory Updated" />
     <MESSAGE value="Fastapi summarization module added with documentation updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fastapi summarization module added with documentation updated." />
+    <MESSAGE value="Update directory structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update directory structure" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1667844391543">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1667930765322">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1667844391543" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1664660456087">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1667930765322" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1667931832986">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1664660456087" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1667931832986" />
+    <state x="396" y="49" key="git4idea.branch.GitSmartOperationDialog" timestamp="1667931733654">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="396" y="49" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.672@0.0.1280.672" timestamp="1667931733654" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NLP/AWS_NLP/summaryman-main/summaryman-main/app.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
