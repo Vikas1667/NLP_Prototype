@@ -20,10 +20,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Directory and Readme Updated.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Directory and Readme Updated." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -268,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667934930968</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Directory and Readme Updated.">
+      <created>1667936992295</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667936992295</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,10 +309,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1667930765322" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1667934206866">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1667936997992">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1667934206866" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1667936997992" />
     <state x="396" y="49" key="git4idea.branch.GitSmartOperationDialog" timestamp="1667931733654">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
