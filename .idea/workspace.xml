@@ -21,11 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Directory Updated">
-      <change afterPath="$PROJECT_DIR$/Financial_Data_extraction/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summarization/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Summarization/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vikas/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Vikas/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Financial_Data_extraction/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Financial_Data_extraction/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zYCUS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StockNLP" />
   </component>
   <component name="RunManager">
     <configuration name="financial_statements_extraction" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -234,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661885608178</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Fastapi summarization module added with documentation updated.">
+      <created>1664660452252</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1664660452252</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,18 +265,17 @@
     <MESSAGE value="Update in Financial Data" />
     <MESSAGE value="Cloud Use cases Updated" />
     <MESSAGE value="Directory Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Directory Updated" />
+    <MESSAGE value="Fastapi summarization module added with documentation updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fastapi summarization module added with documentation updated." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1664659605301">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1667844391543">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1664659605301" />
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1656437394252" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1661885653645">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1667844391543" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1664660456087">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1661885653645" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1656437491174" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1664660456087" />
   </component>
 </project>

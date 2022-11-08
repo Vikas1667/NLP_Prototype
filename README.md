@@ -120,26 +120,21 @@ https://cloud.google.com/vertex-ai/pricing#asia-pacific
  
  
 Azure- ML
-https://azure.microsoft.com/en-in/services/machine-learning/#product-overview
- 
+https://azure.microsoft.com/en-in/services/machine-learning/#product-overview 
 https://docs.microsoft.com/en-in/azure/machine-learning/
  
  
 OCR services
 https://ricciuti-federico.medium.com/how-to-compare-ocr-tools-tesseract-ocr-vs-amazon-textract-vs-azure-ocr-vs-google-ocr-ba3043b507c1
 
-Time : 45 Minute after 9:45 pm 
-git upload 
-
-Image Classification, Object Detection: Vikas 
+Image Classification, Object Detection 
 
 Model : CNN Architechture 
 Use cases Overview: AWS site explore(CNN)  
 Key Observations, Issues, Roadmap with links
 
-eg: Reading various images 
 
-Text Classification, Text Embedding: Komal
+Text Classification, Text Embedding
 
 Model : BERT Architechture 
 Use cases Overview: AWS site explore(BERT)  
