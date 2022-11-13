@@ -20,7 +20,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Directory and Readme Updated." />
+    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Directory and Readme Updated.">
+      <change afterPath="$PROJECT_DIR$/NLP_prototype.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new 2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +65,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cloud/aws_project/aws_transribe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -286,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667937386381</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="updated semantic search roadmap">
+      <created>1667939942699</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1667939942699</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,21 +327,22 @@
     <MESSAGE value="Fastapi summarization module added with documentation updated." />
     <MESSAGE value="Update directory structure" />
     <MESSAGE value="Directory and Readme Updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Directory and Readme Updated." />
+    <MESSAGE value="updated semantic search roadmap" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1667930765322">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1668275057134">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1667930765322" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1668275057134" />
     <state x="275" y="97" key="MultipleFileMergeDialog" timestamp="1667937273874">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="275" y="97" key="MultipleFileMergeDialog/0.0.1280.672@0.0.1280.672" timestamp="1667937273874" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1667937391613">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1667939946284">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1667937391613" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1667939946284" />
     <state x="396" y="49" key="git4idea.branch.GitSmartOperationDialog" timestamp="1667931733654">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
