@@ -30,6 +30,7 @@
 
 3. Smart Document Extraction using OCR
     1. PDF with spark and airflow
+    2. [Donut Document Understanding Transformer without OCR](https://www.youtube.com/watch?v=v55nEhzUdXM)
 
 4. Extraction of stock data
 5. Audio File usecases
