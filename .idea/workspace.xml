@@ -20,9 +20,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Directory and Readme Updated.">
-      <change afterPath="$PROJECT_DIR$/git_basics.md" afterDir="false" />
+    <list default="true" id="495740d5-1251-42ab-97a1-f482c8b7488f" name="Default Changelist" comment="Git basics inprogress">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/cloud/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cloud/aws_project/aws_transribe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -306,7 +308,42 @@
       <option name="project" value="LOCAL" />
       <updated>1668372871455</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Git basics inprogress">
+      <created>1668373527925</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1668373527925</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update in workflow">
+      <created>1679818308497</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679818308497</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update in workflow">
+      <created>1679818374477</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679818374477</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update in workflow">
+      <created>1679818409091</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1679818409091</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Git basics inprogress">
+      <created>1679818426519</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1679818426519</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,29 +375,19 @@
     <MESSAGE value="Directory and Readme Updated." />
     <MESSAGE value="updated semantic search roadmap" />
     <MESSAGE value="Updated Skeleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Skeleton" />
+    <MESSAGE value="update in workflow" />
+    <MESSAGE value="Git basics inprogress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git basics inprogress" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="137" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1668373434414">
+    <state x="233" y="0" key="#Plugins" timestamp="1679818696214">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="367" y="137" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672@0.0.1280.672" timestamp="1668373434414" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1668275057134">
+    <state x="233" y="0" key="#Plugins/0.0.1280.672@0.0.1280.672" timestamp="1679818696214" />
+    <state x="233" y="70" key="Vcs.Push.Dialog.v2" timestamp="1679818440827">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1668275057134" />
-    <state x="275" y="97" key="MultipleFileMergeDialog" timestamp="1667937273874">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state x="275" y="97" key="MultipleFileMergeDialog/0.0.1280.672@0.0.1280.672" timestamp="1667937273874" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1668372876170">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1668372876170" />
-    <state x="396" y="49" key="git4idea.branch.GitSmartOperationDialog" timestamp="1667931733654">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state x="396" y="49" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.672@0.0.1280.672" timestamp="1667931733654" />
+    <state x="233" y="70" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1679818440827" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
